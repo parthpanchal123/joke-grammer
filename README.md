@@ -9,6 +9,6 @@ This is a simple vs code extension that fetches a random joke from the Internet 
 
 ## Screenshot 
 
-![Demo Image](https://github.com/parthpanchal123/joke-grammer/blob/master/images/extension.PNG)
+![Demo Image](https://raw.githubusercontent.com/parthpanchal123/joke-grammer/master/images/extension.PNG)
 
 -----------------------------------------------------------------------------------------------------------
