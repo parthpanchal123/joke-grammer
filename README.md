@@ -1,6 +1,9 @@
-# joke-grammer README
+# joke-grammer
 
 This is a simple vs code extension that fetches a random joke from the Internet and displays it as a message on the active Vs Code window .
+So when you are bored or your code isn't behaving as usual 😛 , quickly read a random Joke . it might help 🤣
+
+Ps : This is my first extension for Vs-Code 😁😎
 
 ## How-to-Use
 
