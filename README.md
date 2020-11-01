@@ -6,7 +6,7 @@ So when you are bored or your code isn't behaving as usual 😛 , quickly read a
 Ps : This is my first extension for Vs-Code 😁😎
 
 ## How-to-Use
-
+* Go to Extensions with Vs-code and search for **Joke-grammer** and install it .
 * Press Ctrl+Shift+P on Windows or Cmd+Shift+P for Mac to open up the command pallete and search **Get a Joke**
 * And thats it , the extension will fetch a random joke from the API and display it on the current active window .
 
