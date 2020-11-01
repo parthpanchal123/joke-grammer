@@ -1,0 +1,46 @@
+{
+	"name": "joke-grammer",
+	"displayName": "Joke-grammer",
+	"publisher": "Parth",
+	"description": "Get fun jokes right into vs code !",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.50.0"
+	},
+	"categories": [
+		"Fun",
+		"Jokes"
+	],
+	"activationEvents": [
+		"onCommand:joke-grammer.helloWorld"
+	],
+	"main": "./extension.js",
+	"contributes": {
+		"commands": [
+			{
+				"command": "joke-grammer.helloWorld",
+				"title": "Get a Joke 🤣"
+			}
+		]
+	},
+	"scripts": {
+		"lint": "eslint .",
+		"pretest": "npm run lint",
+		"test": "node ./test/runTest.js"
+	},
+	"devDependencies": {
+		"@types/axios": "^0.14.0",
+		"@types/glob": "^7.1.3",
+		"@types/mocha": "^8.0.0",
+		"@types/node": "^12.11.7",
+		"@types/vscode": "^1.50.0",
+		"eslint": "^7.9.0",
+		"glob": "^7.1.6",
+		"mocha": "^8.1.3",
+		"typescript": "^4.0.2",
+		"vscode-test": "^1.4.0"
+	},
+	"dependencies": {
+		"axios": "^0.21.0"
+	}
+}
