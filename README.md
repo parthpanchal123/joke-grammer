@@ -11,5 +11,5 @@ This is a simple vs code extension that fetches a random joke from the Internet 
 
 ![Demo Image](https://github.com/parthpanchal123/joke-grammer/blob/master/images/extension.PNG)
 
-\!\[feature X\]\(images/feature-x.png\) 
 -----------------------------------------------------------------------------------------------------------
+    
