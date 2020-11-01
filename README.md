@@ -1,27 +1,15 @@
 # joke-grammer README
 
-This is a simple vs code extension that fetches a random joke from the Internet and displays it as a message  on the active window .
+This is a simple vs code extension that fetches a random joke from the Internet and displays it as a message on the active Vs Code window .
 
 ## How-to-Use
 
-* Press Ctrl+Shift+P on Windows or Cmd+Shift+P for Mac to open up the command pallete and search Get a Joke
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+* Press Ctrl+Shift+P on Windows or Cmd+Shift+P for Mac to open up the command pallete and search **Get a Joke**
+* And thats it , the extension will fetch a random joke from the API and display it on the current active window .
 
-For example if there is an image subfolder under your extension project workspace:
+## Screenshot 
 
-\!\[feature X\]\(images/feature-x.png\)
+![Demo Image](https://github.com/parthpanchal123/joke-grammer/blob/master/images/extension.PNG)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
-
-
-
+\!\[feature X\]\(images/feature-x.png\) 
 -----------------------------------------------------------------------------------------------------------
-
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
