@@ -20,7 +20,7 @@ function activate(context) {
   let disposable = vscode.commands.registerCommand(
     "joke-grammer.helloWorld",
     async () => {
-      const URI = "https://official-joke-api.appspot.com/jokes/random";
+      const URI = "https://karljoke.herokuapp.com/jokes/random";
 
       try {
         const joke = await axios.get(URI);
