@@ -4,7 +4,7 @@
 	"publisher": "Parth",
 	"repository": "https://github.com/parthpanchal123/joke-grammer",
 	"description": "Get fun jokes right into vs code !",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"engines": {
 		"vscode": "^1.50.0"
 	},
